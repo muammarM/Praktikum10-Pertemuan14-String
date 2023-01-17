@@ -31,6 +31,6 @@ Tuliskan codingan sebagai berikut:
 
 Akan menghasilkan output sebagai berikut:
 
-![image](img/john2-outnew.png)
+![image](img/john2.outnew.png)
 
 ## Terima kasih ##
