@@ -17,20 +17,20 @@ Latihan 1
 
 Tuliskan codingan sebagai berikut:
 
-![image](img/john1-out.png)
+![image](img/john1.png)
 
 Akan menghasilkan output seperti dibawah ini:
 
-![image](img/john1.png)
+![image](img/john1-out.png)
 
 Latihan 2
 
 Tuliskan codingan sebagai berikut:
 
-![image](img/john2-out.png)
+![image](img/john2.png)
 
 Akan menghasilkan output sebagai berikut:
 
-![image](img/john2.png)
+![image](img/john2-outnew.png)
 
 ## Terima kasih ##
